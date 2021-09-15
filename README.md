@@ -1,3 +1,3 @@
 # recyclerview_demos 
 
-Full recyclerview usage demos! 
+🍱   Full recyclerview usage demos! 
